@@ -2350,6 +2350,10 @@ som-mail-system:
   - ttl: 600
     type: CNAME
     value: cname.vercel-dns.com.
+sosenteam:
+  - ttl: 600
+    type: A
+    value: 157.131.55.6
 spark:
   - ttl: 3600
     type: TXT
